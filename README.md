@@ -1,5 +1,8 @@
 # D8 JsonEditor
 
+![](demo.gif)
+
+
 ## Install packages
 
 ```bash
@@ -18,7 +21,4 @@ yarn electron:package:linux
 
 --> app in dist folder
 
-## Demo
-
-![](demo.gif)
 
